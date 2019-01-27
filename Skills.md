@@ -1,4 +1,4 @@
-##BaseStats: 
+##BaseStats: (500 points to spend)
 - Health
 - Energy
 
@@ -24,6 +24,7 @@
 - Hammer 2 Hand
 - Axt 1 Hand
 - Bow
+- Pistol (DLC Jhin)
 
 Weapons have a attack range and a attack speed
 
